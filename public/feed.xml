@@ -4,5 +4,24 @@
     <title>Feed Fakta Unik</title>
     <link>https://bigkingmusicofc.github.io/feed-unik/</link>
     <description>Kumpulan fakta unik dari berbagai sumber</description>
+    <language>id</language>
+    <lastBuildDate>Tue, 17 Sep 2025 10:00:00 +0700</lastBuildDate>
+
+    <item>
+      <title>Contoh Fakta Unik Pertama</title>
+      <link>https://contoh.com/fakta-unik-1</link>
+      <description>Ini contoh fakta unik dummy agar feed tidak kosong.</description>
+      <pubDate>Tue, 16 Sep 2025 09:00:00 +0700</pubDate>
+      <guid>https://contoh.com/fakta-unik-1</guid>
+    </item>
+
+    <item>
+      <title>Contoh Fakta Unik Kedua</title>
+      <link>https://contoh.com/fakta-unik-2</link>
+      <description>Dummy kedua, nanti akan diganti otomatis dari combine.js.</description>
+      <pubDate>Tue, 16 Sep 2025 09:30:00 +0700</pubDate>
+      <guid>https://contoh.com/fakta-unik-2</guid>
+    </item>
+
   </channel>
 </rss>
