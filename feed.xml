@@ -5,32 +5,32 @@
     <link>https://bigkingmusicofc.github.io/feed-unik/</link>
     <description>Kumpulan fakta unik dari berbagai sumber</description>
     <language>id-ID</language>
-    <lastBuildDate>Tue, 17 Sep 2025 03:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Sep 2025 05:00:00 GMT</lastBuildDate>
     <ttl>60</ttl>
 
     <item>
-      <title>Contoh Fakta Unik Pertama</title>
-      <link>https://contoh.com/fakta-unik-1</link>
-      <description>Ini contoh fakta unik dummy agar feed tidak kosong.</description>
-      <pubDate>Tue, 16 Sep 2025 02:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://contoh.com/fakta-unik-1</guid>
+      <title>Fakta Unik: Lebah Tidak Bisa Melihat Warna Merah</title>
+      <link>https://contoh.com/fakta-lebah</link>
+      <description>Lebah tidak dapat melihat warna merah, tapi mereka bisa melihat spektrum ultraviolet yang tak terlihat manusia.</description>
+      <pubDate>Wed, 17 Sep 2025 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://contoh.com/fakta-lebah</guid>
     </item>
 
     <item>
-      <title>Contoh Fakta Unik Kedua</title>
-      <link>https://contoh.com/fakta-unik-2</link>
-      <description>Dummy kedua, nanti akan diganti otomatis dari combine.js.</description>
-      <pubDate>Tue, 16 Sep 2025 02:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://contoh.com/fakta-unik-2</guid>
+      <title>Fakta Unik: Jantung Paus Biru</title>
+      <link>https://contoh.com/fakta-paus</link>
+      <description>Jantung paus biru bisa seberat 180 kilogram dan detaknya bisa terdengar dari jarak lebih dari 3 kilometer.</description>
+      <pubDate>Wed, 17 Sep 2025 04:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://contoh.com/fakta-paus</guid>
     </item>
 
     <item>
-  <title>Fakta Unik Ketiga</title>
-  <link>https://contoh.com/fakta-unik-3</link>
-  <description>Ternyata kucing bisa tidur hingga 16 jam sehari!</description>
-  <pubDate>Wed, 17 Sep 2025 04:00:00 GMT</pubDate>
-  <guid isPermaLink="true">https://contoh.com/fakta-unik-3</guid>
-</item>
+      <title>Fakta Unik: Tidur Kucing</title>
+      <link>https://contoh.com/fakta-kucing</link>
+      <description>Kucing bisa tidur hingga 16 jam sehari untuk menghemat energi.</description>
+      <pubDate>Wed, 17 Sep 2025 05:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://contoh.com/fakta-kucing</guid>
+    </item>
 
   </channel>
 </rss>
