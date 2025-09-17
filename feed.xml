@@ -24,5 +24,13 @@
       <guid isPermaLink="true">https://contoh.com/fakta-unik-2</guid>
     </item>
 
+    <item>
+  <title>Fakta Unik Ketiga</title>
+  <link>https://contoh.com/fakta-unik-3</link>
+  <description>Ternyata kucing bisa tidur hingga 16 jam sehari!</description>
+  <pubDate>Wed, 17 Sep 2025 04:00:00 GMT</pubDate>
+  <guid isPermaLink="true">https://contoh.com/fakta-unik-3</guid>
+</item>
+
   </channel>
 </rss>
