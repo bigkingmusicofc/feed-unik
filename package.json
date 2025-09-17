@@ -1,0 +1,11 @@
+{
+  "name": "feed-unik",
+  "version": "1.0.0",
+  "main": "combine.js",
+  "dependencies": {
+    "rss-parser": "^3.12.0"
+  },
+  "scripts": {
+    "start": "node combine.js"
+  }
+}
